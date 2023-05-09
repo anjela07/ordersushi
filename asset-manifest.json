@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ordersushi/static/css/main.08b9d981.css",
+    "main.js": "/ordersushi/static/js/main.d6d96509.js",
+    "static/media/avakadoroll.jpg": "/ordersushi/static/media/avakadoroll.0dd7746498d07d1b1629.jpg",
+    "static/media/cal.jpg": "/ordersushi/static/media/cal.b354ebf5a0db67e92bdf.jpg",
+    "static/media/1roll.webp": "/ordersushi/static/media/1roll.3912d656ebaf671e81e4.webp",
+    "index.html": "/ordersushi/index.html",
+    "main.08b9d981.css.map": "/ordersushi/static/css/main.08b9d981.css.map",
+    "main.d6d96509.js.map": "/ordersushi/static/js/main.d6d96509.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08b9d981.css",
+    "static/js/main.d6d96509.js"
+  ]
+}
